@@ -1,6 +1,9 @@
 Udacity MLND Capstone - Readme
+
 Udacity Machine Learning Nanodegree Capstone Project
+
 By Sheli Bekel Sela
+
 DEC 15th, 2018
 
 New York City Rate Prediction Challenge
