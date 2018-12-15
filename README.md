@@ -43,6 +43,7 @@ New_York_texi_rate_prediction.ipynb
 Proposl
 
 Udacity MLND Proposal.pdf
+Link to review: https://review.udacity.com/#!/reviews/1534994
 
 
 Report 
